@@ -4,4 +4,24 @@ Scikit-learn provides a consistent framework that makes applying many of the sta
 
 ## Notebooks
 
+[Introduction](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/00_introduction.ipynb)
+
+[Supervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/01_supervised.ipynb)
+
+[Unsupervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/03_unsupervised.ipynb)
+
+[Model Selection](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/02_model_selection.ipynb)
+
+[Regularization]()
+
 ## Setup
+
+    >>> import sklearn
+    >>> sklearn.__version__
+    '0.16.1'
+    >>> import numpy
+    >>> numpy.__version__
+    '1.10.4'
+    >>> import matplotlib
+    >>> matplotlib.__version__
+    '1.4.3'
