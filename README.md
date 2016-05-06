@@ -7,12 +7,22 @@ Scikit-learn provides a consistent framework that makes applying many of the sta
 [Introduction](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/00_introduction.ipynb)
 
 [Supervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/01_supervised.ipynb)
+- Regression
+- Classification
 
-[Unsupervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/03_unsupervised.ipynb)
+[Unsupervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/02_unsupervised.ipynb)
+- Dimensionality reduction with PCA
+- Clustering
 
-[Model Selection](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/02_model_selection.ipynb)
+[Model Selection](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/03_model_selection.ipynb)
+- Cross validation
+- Bias-Variance Trade-Off
 
-[Regularization]()
+[Regularization](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/04_regularization.ipynb)
+- Ridge
+- Lasso
+
+[Conclusion](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/conclusion.ipynb)
 
 ## Setup
 
