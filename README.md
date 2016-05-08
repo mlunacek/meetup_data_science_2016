@@ -10,9 +10,13 @@ Scikit-learn provides a consistent framework that makes applying many of the sta
 - Regression
 - Classification
 
+- Examples?
+
 [Unsupervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/02_unsupervised.ipynb)
 - Dimensionality reduction with PCA
 - Clustering
+
+- Examples?
 
 [Model Selection](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/03_model_selection.ipynb)
 - Cross validation
