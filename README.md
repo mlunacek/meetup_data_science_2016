@@ -9,14 +9,12 @@ Scikit-learn provides a consistent framework that makes applying many of the sta
 [Supervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/01_supervised.ipynb)
 - Regression
 - Classification
-
-- Examples?
+- Examples
 
 [Unsupervised Learning](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/02_unsupervised.ipynb)
 - Dimensionality reduction with PCA
 - Clustering
-
-- Examples?
+- Examples
 
 [Model Selection](https://github.com/mlunacek/meetup_data_science_2016/blob/master/notebooks/03_model_selection.ipynb)
 - Cross validation
@@ -30,12 +28,26 @@ Scikit-learn provides a consistent framework that makes applying many of the sta
 
 ## Setup
 
+I would install the latest python package from [Anaconda](https://www.continuum.io/downloads).  This should have everything you need to run the notebook examples.  Here are the versions I am using:
+
+sklearn
     >>> import sklearn
     >>> sklearn.__version__
     '0.16.1'
+    
+numpy
     >>> import numpy
     >>> numpy.__version__
     '1.10.4'
+    
+matplotlib  
     >>> import matplotlib
     >>> matplotlib.__version__
     '1.4.3'
+
+pandas
+    >>> import pandas
+    >>> pandas.__version__
+    '0.17.1'
+
+
